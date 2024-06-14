@@ -1,0 +1,33 @@
+body {
+    background-color: greenyellow;
+    margin: 20px 20px 20px 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+header, footer {
+background-color: rgb(23, 224, 23);
+border-radius: 15px;
+text-align: center;
+}
+
+h1, h2 {
+    color:red
+}
+
+h3, h4 {
+    color: brown
+}
+
+a {
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+
+
+

@@ -1,0 +1,21 @@
+body {
+    background-color: papayawhip;
+    font-family: "Lato", sans-serif;
+    color: midnightblue;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: green;
+    font-family: "Arial", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 12px;
+}
+
+img {
+    width: 240px;
+    border-radius: 16px;
+}
