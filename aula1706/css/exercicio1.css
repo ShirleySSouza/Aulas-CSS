@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    font-size: 10px;
+    background-color: #557571;
+}
+
+#titulo-principal {
+    text-align: center;
+    font-size: 5rem;
+    color: #D49A89;
+    padding: 10px;
+}
+
+.texto-introducao {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #F7D1BA;
+    padding-bottom: 2px;
+}
+
+.caixa {
+    background-color: #F4F4F4; 
+    width: 60vw;
+    height: 10vh;
+    margin: 3vh 20vw;
+    border-radius: 15px;
+}
+
+.caixa p {
+    font-size: 2rem;
+    color: #557571;
+    padding: 3vh 10vw;
+}
+
+figure {
+    width: 100vw;
+    height: fit-content;
+    margin: 5vh 40vw;
+}
+
+figcaption {
+    font-size: 1.5rem;
+    color: #F7D1BA;
+    padding-top: 8px;
+}
+
+img {
+    box-shadow: 5px 5px 5px 3px black;
+}
+
+
