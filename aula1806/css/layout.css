@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html {
+    font-size: 16px;
+}
+
+.container {
+    background: linear-gradient(70deg, black, blue);
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    padding: 4vh 2vw;
+}
+
+.navegacao {
+    width: 40%;
+    padding: 4vh;
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    align-items: flex-end;
+}
+
+a {
+    font-size: 1.9rem;
+    color: yellow;
+}
+
+a:hover {
+    color: rgb(143, 192, 238);
+}
